@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20412#Tahiti--Roman-aus-der-S-dsee.-Erster-Band.
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-01-22'
 gutenberg_type: Text
